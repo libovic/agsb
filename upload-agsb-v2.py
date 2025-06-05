@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "vic"         # 用户名
 UUID = "866fb108-e203-4585-9958-cc9837507a80"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "op.hbobo.eu.org"                   # 域名，留空则自动获取
+DOMAIN = "op.hbobo.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNGFiNGY3YmUwOGNlOTY1YTg4YTM4NWMyYWMyNDdmYjMiLCJ0IjoiN2JmNjBiMzQtODZlMC00ZmU4LTliNDYtOWUyNGMzMDAxMjRlIiwicyI6Ik1qZGlOV0kxT0RjdE0yWmlNaTAwT1RabUxXRTFOV1V0TlRJMFpERmpNRFZtTnpBNCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
